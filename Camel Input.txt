@@ -1,4 +1,10 @@
 commit 1
 commit 2
+<<<<<<< HEAD
 commit 3
 commit 4
+=======
+
+// testing by Na
+Commit by Nightcat
+>>>>>>> dev_02
